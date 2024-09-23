@@ -1,0 +1,25 @@
+                                       SISTEMAS NÚMERICOS
+
+
+
+ Imagine que os sistemas numéricos são como "idiomas" usados ​​para expressar valores numéricos. Assim como usamos 
+diferentes línguas para nos comunicar – português, inglês, espanhol – os números também podem ser representados de 
+diferentes maneiras, dependendo de certas regras. Esses sistemas são fundamentais em tudo o que fazemos, desde 
+contar dinheiro até o processamento de informações em um computador.
+
+ No nosso dia a dia, o sistema mais comum que utilizamos é o sistema decimal . É aquele que aprende desde pequenos: 
+contamos com os dedos, resolvemos contas na escola, e até medimos o tempo usando esse sistema. Porém, o mundo da 
+computação é um pouco diferente. Quando olhamos "dentro" de um computador, ele funciona com o sistema binário . E em 
+algumas situações especiais, usamos outros sistemas, como o sistema octal e o sistema hexadecimal .
+
+ Então, em resumo, sistemas numéricos são conjuntos de regras e símbolos que usamos para representar e manipular 
+números. Cada sistema numérico tem uma "base", que é o número de símbolos diferentes que ele usa e que determina 
+como os números são organizados. Vamos explorar cada um desses sistemas e entender como funcionam.
+
+
+
+                          "O Conceito de "Base" em Sistemas Numéricos"
+
+ A base de um sistema numérico é como o "alfabeto" do sistema. Ela nos diz quantos símbolos podemos usar para formar 
+todos os números possíveis dentro desse sistema. Pense na base como uma fundação; ela define quantos degraus a gente 
+pode subir antes de "virar a página" e começar uma nova contagem.
