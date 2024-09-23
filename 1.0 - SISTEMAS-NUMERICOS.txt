@@ -7,10 +7,7 @@ diferentes línguas para nos comunicar – português, inglês, espanhol – os 
 diferentes maneiras, dependendo de certas regras. Esses sistemas são fundamentais em tudo o que fazemos, desde 
 contar dinheiro até o processamento de informações em um computador.
 
- No nosso dia a dia, o sistema mais comum que utilizamos é o sistema decimal . É aquele que aprende desde pequenos: 
-contamos com os dedos, resolvemos contas na escola, e até medimos o tempo usando esse sistema. Porém, o mundo da 
-computação é um pouco diferente. Quando olhamos "dentro" de um computador, ele funciona com o sistema binário . E em 
-algumas situações especiais, usamos outros sistemas, como o sistema octal e o sistema hexadecimal .
+ No nosso dia a dia, o sistema mais comum que utilizamos é o sistema decimal . É aquele que aprende desde pequenos: contamos com os dedos, resolvemos contas na escola, e até medimos o tempo usando esse sistema. Porém, o mundo da computação é um pouco diferente. Quando olhamos "dentro" de um computador, ele funciona com o sistema binário . E em algumas situações especiais, usamos outros sistemas, como o sistema octal e o sistema hexadecimal .
 
  Então, em resumo, sistemas numéricos são conjuntos de regras e símbolos que usamos para representar e manipular 
 números. Cada sistema numérico tem uma "base", que é o número de símbolos diferentes que ele usa e que determina 
@@ -20,6 +17,65 @@ como os números são organizados. Vamos explorar cada um desses sistemas e ente
 
                           "O Conceito de "Base" em Sistemas Numéricos"
 
- A base de um sistema numérico é como o "alfabeto" do sistema. Ela nos diz quantos símbolos podemos usar para formar 
-todos os números possíveis dentro desse sistema. Pense na base como uma fundação; ela define quantos degraus a gente 
-pode subir antes de "virar a página" e começar uma nova contagem.
+ A base de um sistema numérico é como o "alfabeto" do sistema. Ela nos diz quantos símbolos podemos usar para formar todos os números possíveis dentro desse sistema. Pense na base como uma fundação; ela define quantos degraus a gente pode subir antes de "virar a página" e começar uma nova contagem.
+
+ - Sistema Decimal (Base 10): Começando com o sistema decimal , a base é 10 . Isso quer dizer que ele utiliza 10 
+  símbolos para representar os números: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 . Quando você ultrapassa o número 9, precisa 
+  começar uma nova "ordem" de grandeza, como por exemplo 10, 11, 12 e assim por diante. É por isso que sempre    
+  usamos os mesmos símbolos, mas em símbolos diferentes, conforme a contagem avançada.
+
+   Esse sistema é muito familiar porque foi o que evoluímos para usar no nosso cotidiano. Há uma razão simples 
+  para isso: a maioria das pessoas tem 10 dedos nas mãos , o que facilita a contagem e fez com que esse sistema se 
+  tornasse o padrão em muitas culturas.
+
+   Outro detalhe importante do sistema decimal é que cada posição de um número tem um valor específico, baseado em 
+  potências de 10. Por exemplo, no número 456, o 4 está na "casa das centenas" (4 × 100), o 5 na " casa das 
+  bolsas" (5 × 10), e o 6 na "casa das unidades" (6 × 1). Esse princípio é o que torna possível representar 
+  qualquer número usando apenas esses 10 símbolos.
+
+   
+ - Sistema Binário (Base 2): Agora, o sistema binário é um pouco diferente. Ele tem uma base de 2 , o que 
+  significa que utiliza apenas dois símbolos : 0 e 1 . No começo, isso pode parecer limitado, mas é exatamente  
+  essa simplicidade que torna o sistema binário perfeito para os computadores. Eles funcionam com circuitos que 
+  podem estar ligados (representados pelo 1) ou desligados (representados pelo 0).
+
+   No binário, cada posição de um número representa uma potência de 2. Por exemplo, o número binário 101 significa 
+  1 × 2² + 0 × 2¹ + 1 × 2⁰ , o que resulta no número 5 no sistema decimal.
+
+   Mesmo com poucos símbolos, o binário é extremamente poderoso e eficiente. Ele é usado em tudo que envolve 
+  computadores, desde a memória de um celular até a navegação de satélites espaciais. Em vez de termos 10 opções 
+  (como no decimal), o computador só precisa decidir entre duas opções para cada projeto, o que é ideal para a 
+  velocidade e precisão das máquinas.
+
+
+ - Sistema Octal (Base 8): O sistema octal tem uma base de 8 , o que significa que ele usa oito símbolos para 
+  representar os números: 0, 1, 2, 3, 4, 5, 6, 7 . Ele não é tão comum no nosso dia a dia, mas já teve um papel 
+  importante na história da computação. Quando os computadores foram desenvolvidos, o octal foi utilizado porque 
+  simplificava grandes números binários.
+
+   Assim como no decimal, cada posição no sistema octal é uma potência de 8. O número octal 123, por exemplo, 
+  significa 1 × 8² + 2 × 8¹ + 3 × 8⁰ , que se traduz no número 83 no sistema decimal.
+
+   O octal serviu como uma maneira prática de representar e organizar números em máquinas antigas, como 
+  calculadoras e sistemas eletrônicos. Embora tenha sido substituído em grande parte pelo hexadecimal, ele ainda 
+  aparece em algumas áreas específicas de hardware e software.
+
+
+ - Sistema Hexadecimal (Base 16): O sistema hexadecimal é um dos mais usados ​​em computação e eletrônica hoje em 
+  dia. Sua base é 16 , o que significa que, além dos números 0 a 9 , usamos também as letras A a F para 
+  representar os valores de 10 a 15 . Esse sistema é muito eficiente porque consegue compactar grandes números 
+  binários em algo mais fácil de manipular e ler.
+
+   Por exemplo, o número hexadecimal 1A3 representa 1 × 16² + A × 16¹ + 3 × 16⁰ , onde o A é equivalente ao número 
+  10 sem decimal. Isso resulta em 419 no sistema decimal.
+
+   A grande vantagem do hexadecimal é que ele permite representar números binários longos de maneira compacta e 
+  clara. Por exemplo, enquanto um número binário pode ter 16 ou 32 dígitos, seu hexadecimal equivalente pode ser 
+  expresso com muito menos caracteres, facilitando o trabalho de programadores e engenheiros.
+
+
+                   
+                              "A Importância dos Sistemas Numéricos na Computação"
+
+ 
+
