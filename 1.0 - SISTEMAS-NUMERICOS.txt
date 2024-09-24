@@ -25,7 +25,10 @@ programação de computadores, na codificação de dados e em áreas de eletrôn
 ajudam os programadores e engenheiros a trabalhar de maneira mais eficiente e simplificada quando lidam com 
 grandes quantidades de informações.
  
- Então, em resumo, os sistemas numéricos são conjuntos de regras e símbolos que usamos para representar e manipular números de diferentes formas. Cada um desses sistemas tem uma "base", que nada mais é do que o número de símbolos diferentes que ele usa para formar todos os seus números. Essa base define como os números são organizados dentro de cada sistema.
+ Então, em resumo, os sistemas numéricos são conjuntos de regras e símbolos que usamos para representar e manipular
+números de diferentes formas. Cada um desses sistemas tem uma "base", que nada mais é do que o número de símbolos 
+diferentes que ele usa para formar todos os seus números. Essa base define como os números são organizados dentro 
+de cada sistema.
 
 
 
@@ -142,7 +145,10 @@ combinação e a disposição dos algarismos formam um número que é muito maio
 individuais. Essa propriedade torna a notação posicional extremamente útil para representar números de forma 
 compacta e eficiente.
 
- Além do sistema decimal (base 10), existem outros sistemas de notação posicional, como o binário (base 2), que utiliza apenas os algarismos 0 e 1. No binário, o número "101" representa "5" em decimal, pois o primeiro algarismo (da direita para a esquerda) tem o valor de 1 x 2°, o  0 x 2¹, e o terceiro 0 x 2². Cada posição ainda altera o valor do algarismo, o que é um princípio fundamental da notação posicional.
+ Além do sistema decimal (base 10), existem outros sistemas de notação posicional, como o binário (base 2), que 
+utiliza apenas os algarismos 0 e 1. No binário, o número "101" representa "5" em decimal, pois o primeiro algarismo 
+(da direita para a esquerda) tem o valor de 1 x 2°, o  0 x 2¹, e o terceiro 0 x 2². Cada posição ainda altera o 
+valor do algarismo, o que é um princípio fundamental da notação posicional.
 
  A notação posicional não apenas simplifica a representação de números grandes, mas também é a base para operações 
 matemáticas. Ao realizar adições, subtrações e multiplicações, a posição dos algarismos permite que as operações 
@@ -157,7 +163,9 @@ exemplos práticos para solidificar esse entendimento.
 
                              "O Conceito de "Base" em Sistemas Numéricos"
 
- A base de um sistema numérico é como o "alfabeto" do sistema. Ela nos diz quantos símbolos podemos usar para formar todos os números possíveis dentro desse sistema. Pense na base como uma fundação; ela define quantos degraus a gente pode subir antes de "virar a página" e começar uma nova contagem.
+ A base de um sistema numérico é como o "alfabeto" do sistema. Ela nos diz quantos símbolos podemos usar para 
+formar todos os números possíveis dentro desse sistema. Pense na base como uma fundação; ela define quantos 
+degraus a gente pode subir antes de "virar a página" e começar uma nova contagem.
 
  - Sistema Decimal (Base 10): Começando com o sistema decimal , a base é 10 . Isso quer dizer que ele utiliza 10 
   símbolos para representar os números: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 . Quando você ultrapassa o número 9, precisa 
@@ -231,7 +239,9 @@ Esses sistemas oferecem uma maneira mais acessível de visualizar e trabalhar co
 seriam difíceis de entender.
 
  O sistema octal, que utiliza base 8, e o sistema hexadecimal, que utiliza base 16, tornam a leitura e a 
-manipulação de números binários mais práticas. Por exemplo, um número binário extenso, como 101111001001, pode ser representado de forma mais concisa no sistema hexadecimal, onde ele se torna B9. Essa redução da complexidade não apenas facilita o trabalho dos programadores, mas também melhora a eficiência na comunicação entre humanos e máquinas.
+manipulação de números binários mais práticas. Por exemplo, um número binário extenso, como 101111001001, pode ser
+representado de forma mais concisa no sistema hexadecimal, onde ele se torna B9. Essa redução da complexidade não 
+apenas facilita o trabalho dos programadores, mas também melhora a eficiência na comunicação entre humanos e máquinas.
 
  Nas linguagens de programação, o sistema hexadecimal é frequentemente utilizado para definir núcleos, endereços 
 de memória e outros valores numéricos que precisam ser manipulados diretamente pelo sistema. Essa prática ajuda a 
