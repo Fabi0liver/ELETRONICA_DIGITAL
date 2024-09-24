@@ -75,6 +75,38 @@ trabalhamos com números, tornando-se um alicerce essencial para a matemática m
 
 
 
+                                      "O Conceito de Base"
+
+ A base de um sistema numérico é o "alfabeto" desse sistema, pois define quantos símbolos diferentes podemos usar 
+para formar números. A base indica quantos algarismos únicos podem ser usados e, consequentemente, como esses 
+números são organizados e crescem à medida que adicionamos mais algarismos. Cada sistema numérico tem sua base 
+particular, o que muda a forma como os números são representados.
+
+ No sistema decimal (base 10), que usamos no nosso dia a dia, há 10 símbolos disponíveis: 0, 1, 2, 3, 4, 5, 6, 7, 
+8 e 9. Assim, a cada vez que atingimos o número 9, adicionamos outro algarismo à esquerda e começamos uma nova 
+sequência (10, 11, 12...).
+
+ Agora, pense no sistema binário (base 2), utilizado por computadores. Aqui, só temos dois símbolos: 0 e 1. Então, 
+quando o número "atinge" o 1, precisamos adicionar outro algarismo à esquerda para continuar contando. Por 
+exemplo, 10 em binário representa o número 2 em decimal, 11 representa 3, e assim por diante.
+
+ No sistema octal (base 8), que também é utilizado em certos contextos de computação, há oito símbolos 
+disponíveis: 0, 1, 2, 3, 4, 5, 6 e 7. Quando atingimos o 7, precisamos adicionar outro algarismo à esquerda para 
+continuar a contagem. Por exemplo, 10 em octal representa 8 em decimal, e 11 representa 9. Esse sistema é 
+frequentemente usado como uma forma intermediária entre o binário e o hexadecimal, pois pode simplificar a 
+conversão de números binários.
+
+ No sistema hexadecimal (base 16), há mais símbolos disponíveis. Além dos números de 0 a 9, também usamos as 
+letras A, B, C, D, E e F para representar os valores de 10 a 15. Esse sistema é bastante utilizado em programação, 
+especialmente para lidar com grandes números de forma mais compacta.
+
+ Cada base tem suas próprias características, mas todas seguem o mesmo princípio de crescimento à medida que 
+mudamos de posição.
+
+
+
+                        "As Posições e Seus Pesos na Notação Posicional"
+
 
 
 
