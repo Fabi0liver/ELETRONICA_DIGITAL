@@ -64,17 +64,17 @@ entendê-lo melhor, vamos analisar em detalhes seus componentes fundamentais: al
 
          Exemplo de Interpretação: 
 
-                                                                     Considerando o número 3E7 no sistema hexadecimal:
+                          Considerando o número 3E7 no sistema hexadecimal:
 
-                                                                        * O "3" está na posição das centenas, representando 3 × 16² = 768.
+                           * O "3" está na posição das centenas, representando 3 × 16² = 768.
 
-                                                                        * O "E" (que representa 14) está na posição das dezenas, representando 14 × 16¹ =  224.
+                            * O "E" (que representa 14) está na posição das dezenas, representando 14 × 16¹ =  224.
 
-                                                                        * O "7" está na posição das unidades, representando  7 ×  16° = 7. 
+                            * O "7" está na posição das unidades, representando  7 ×  16° = 7. 
 
-                          Assim, o número 3E7 é interpretado como a soma de 768 + 224 + 7, resultando em 999 em decimal. Essa ] 
-                                                                  capacidade de decompor um número em suas partes constitutivas é fundamental para entender e 
-                                                                  trabalhar com o sistema hexadecimal.
+                          Assim, o número 3E7 é interpretado como a soma de 768 + 224 + 7, resultando em 999 em 
+                         decimal. Essa capacidade de decompor um número em suas partes constitutivas é fundamental
+                         para entender e trabalhar com o sistema hexadecimal.
 
 
 
@@ -130,7 +130,8 @@ detalhada de como essas operações funcionam:
 
                             "Aplicações do Sistema Hexadecimal"    
 
- O sistema hexadecimal é amplamente utilizado em diversas áreas, refletindo sua importância na vida cotidiana e em diferentes disciplinas:   
+ O sistema hexadecimal é amplamente utilizado em diversas áreas, refletindo sua importância na vida cotidiana e
+em diferentes disciplinas:   
 
  - Programação : O sistema hexadecimal é amplamente utilizado em linguagens de programação, especialmente na 
   definição de núcleos em design gráfico e em operações de manipulação de memória. Por exemplo, ao definir o cor 
