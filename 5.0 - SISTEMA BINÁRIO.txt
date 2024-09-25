@@ -1,0 +1,90 @@
+                                        SISTEMA BINÁRIO
+
+
+ O sistema binário é um sistema de numeração fundamental na computação e na tecnologia digital. Diferente do 
+sistema decimal, que utiliza dez algarismos (0 a 9), o sistema binário opera exclusivamente com dois algarismos: 0 
+e 1. Essa simplicidade é um dos fatores que torna o sistema binário tão adequado para as máquinas, que utilizam 
+circuitos eletrônicos que podem estar em um estado ligado (1) ou desligado (0). Portanto, o binário é a base para 
+toda a representação de dados em computadores, smartphones e praticamente qualquer dispositivo digital.
+
+ O sistema binário é um sistema posicional, o que significa que o valor de cada algarismo em um número binário 
+depende de sua posição. Cada posição em um número binário representa uma potência de 2, começando com 2° para a 
+posição mais à direita. Essa estrutura permite que o sistema binário represente números de maneira compacta e 
+eficiente, sendo essencial para a execução de operações aritméticas e lógicas nas máquinas. À medida que a 
+tecnologia evolui, a compreensão do sistema binário torna-se cada vez mais importante, não apenas para 
+programadores e engenheiros, mas para qualquer pessoa que interaja com a tecnologia digital.
+
+ Além de sua importância na tecnologia, o sistema binário também possui aplicações em áreas como matemática, 
+lógica e teoria da informação. Ao explorarmos o sistema binário, podemos entender como ele se relaciona com outros 
+sistemas numéricos, como o decimal, e como os algarismos binários são usados ​​para representar dados e realizar 
+cálculos em diferentes contextos. Neste texto, analisaremos detalhadamente a estrutura do sistema binário, suas 
+características, funcionamento e importância na era digital.
+
+
+
+                               "Estrutura do Sistema Binário"
+
+ O sistema binário é um sistema de numeração posicional que utiliza apenas dois algarismos: 0 e 1. A estrutura 
+desse sistema é composta por elementos essenciais, incluindo algarismos e valores posicionais .
+
+ - Algarismos: Os algarismos no sistema binário são os símbolos 0 e 1. Cada algarismo tem um significado 
+  específico e é utilizado para construir números. Vamos entender melhor a importância e as características dos 
+  algarismos binários:
+
+         Representação : Como o sistema binário possui apenas dois algarismos, ele é mais simples em comparação ao 
+                        sistema decimal. O "0" representa a ausência de valor, enquanto o "1" indica a presença de 
+                        uma unidade. Essa dualidade é fundamental para o funcionamento dos circuitos eletrônicos, 
+                        onde cada algarismo pode ser representado por estados físicos, como a presença ou ausência 
+                        de uma tensão elétrica.
+
+         Combinações : Mesmo com apenas dois algarismos, é possível formar uma variedade de números. Por exemplo, 
+                      usando apenas dois algarismos, podemos formar números como 10 (que representa duas unidades 
+                      no decimal), 110 (que representa seis unidades) e assim por diante. Isso se torna 
+                      especialmente útil na computação, onde grandes quantidades de dados podem ser representadas 
+                      usando sequências de 0s e 1s.
+
+         Limitações : Embora o sistema binário tenha apenas dois algarismos, sua capacidade de representar números 
+                     é exponencial. Cada novo algarismo adicionado à esquerda aumenta a magnitude do número em um 
+                     fator de 2. Por exemplo, o número binário 1010 representa 10 no sistema decimal, mostrando 
+                     que o sistema binário pode expressar uma variedade de valores com apenas algumas associações 
+                     de algarismos.
+
+
+ - Valores Posicionais: Os valores posicionados são cruciais para compreender como os números binários são 
+  formados e interpretados. Cada posição em um número binário tem um valor específico, que é uma potência de 2.
+
+         Potências de 2 : A posição mais à direita em um número binário representa 2°(unidades), a próxima posição 
+                         à esquerda representa 2¹(duas unidades), seguida por 2²(quatro unidades), 2³(oito 
+                         unidades) e assim por diante. Essa estrutura permite que o sistema binário represente 
+                         números de forma eficiente. 
+
+                          Por exemplo, no número binário 1011, cada algarismo representa uma potência de 2:
+
+                           * O "1" mais à esquerda está na posição de 2³(8)
+
+                           * O "0" está na posição de 2²(0)
+
+                           * O "1" está na posição de 2¹(2)
+
+                           * O "1" mais à direita está na posição de 2°(1)
+
+                           Assim, 1011 no sistema binário equivale a 8 + 0 + 2 + 1, resultando em 11 no sistema 
+                          decimal.
+
+         Exemplo de Interpretação : 
+
+                          Considerando o número binário 1101:
+
+                           * O "1" na posição 2³ representante 8, 
+
+                           * O "1" na posição 2² representante 4,
+
+                           * O "0" na posição 2¹ representa 0,  
+
+                           * O "1" na posição 2° representa 1.
+
+                           Portanto, 1101 é interpretado como 8 + 4 + 0 + 1, resultando em 13 no sistema decimal. 
+                          Isso torna mais fácil entender e trabalhar com números binários, especialmente ao 
+                          converter entre sistemas numéricos.
+
+
