@@ -16,7 +16,8 @@ números são manipulados em diferentes contextos, desde a matemática básica a
 
  Neste texto, vamos explorar o que é um número, o que é um algarismo e como o valor é determinado. Também 
 discutiremos como esses elementos se aplicam à notação posicional, suas diferenças e a importância deles nos 
-sistemas numéricos. Com isso, esperamos desmistificar um pouco os conceitos matemáticos e tornar mais claro como as operações numéricas são realizadas.
+sistemas numéricos. Com isso, esperamos desmistificar um pouco os conceitos matemáticos e tornar mais claro como
+as operações numéricas são realizadas.
 
 
 
