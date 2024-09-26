@@ -52,4 +52,54 @@ quantidade de coleções disponíveis.
 representado. Isso significa que, conforme você se move da direita para a esquerda em um número, cada posição 
 aumenta exponencialmente de acordo com a base.
 
+ - Sistema Decimal (Base 10): No sistema decimal, cada posição de um número é uma potência de 10. Por exemplo, o 
+                             número 352 no sistema decimal é interpretado da seguinte maneira:
+
+                                     3 X 10² + 5 x 10¹ + 2 x 10°
+
+                              Ou seja:
+                             
+                                     300 + 50 + 2 = 352
+
+                              Aqui, cada algarismo (3, 5, 2) multiplica uma potência de 10, que depende da posição 
+                             em que o algarismo se encontra.
+
+
+ - Sistema Binário (Base 2): No sistema binário, os números funcionam de maneira semelhante, mas com base 2. O 
+                            número 1011 em binário, por exemplo, representa:
+
+                                     1 x 2³ + 0 x 2² + 1 x 2¹ + 1 x 2°
+
+                             Ou seja:
+
+                                     8 + 0 + 2 + 1 = 11
+
+                             Esse princípio de multiplicar algarismos por potências da base se aplica a todos os 
+                            sistemas numéricos. 
+
+
+ -  Sistema Octal (Base 8): No sistema octal, o número 145 seria interpretado assim:
+
+                                     1 x 8² + 4 x 8¹ + 5 x 8°
+
+                            Ou seja:
+
+                                     64 + 32 + 5 = 101 em decimal
+
+
+ - Sistema Hexadecimal (Base 16): O sistema hexadecimal segue a mesma lógica. Por exemplo, o número 2F (hexadecimal) seria representado como:
+
+                                     2 x 16¹ + f x 16°
+
+                            Lembre-se que F no sistema hexadecimal é igual a 15 em decimal, então:
+
+                                     32 + 15 = 47 em decimal
+
+                             Cada posição de um número em qualquer base pode ser entendida como uma potência da 
+                           base, e os símbolos disponíveis em cada posição são multiplicados por essa potência.
+
+                              
+
+                                  
+
 
