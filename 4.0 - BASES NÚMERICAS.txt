@@ -87,7 +87,8 @@ aumenta exponencialmente de acordo com a base.
                                      64 + 32 + 5 = 101 em decimal
 
 
- - Sistema Hexadecimal (Base 16): O sistema hexadecimal segue a mesma lógica. Por exemplo, o número 2F (hexadecimal) seria representado como:
+ - Sistema Hexadecimal (Base 16): O sistema hexadecimal segue a mesma lógica. Por exemplo, o número 2F (hexadecimal) 
+seria representado como:
 
                                      2 x 16¹ + f x 16°
 
@@ -102,7 +103,8 @@ aumenta exponencialmente de acordo com a base.
 
                                 "Diferenças Entre Bases"
 
- Cada sistema numérico tem características próprias que o tornam mais ou menos adequado para diferentes  aplicações. Aqui estão algumas considerações para cada um dos sistemas numéricos mais comuns:
+ Cada sistema numérico tem características próprias que o tornam mais ou menos adequado para diferentes  aplicações. 
+Aqui estão algumas considerações para cada um dos sistemas numéricos mais comuns:
 
  - Decimal : É o mais natural para os humanos, já que estamos habituados a contar usando dez algarismos. É o 
             sistema preferido para a maioria das interações diárias e transações financeiras.
@@ -145,7 +147,8 @@ representação de núcleos e caracteres.
 
                                             "Conclusão"
 
- O conceito de base em sistemas numéricos é uma ferramenta poderosa que define como representamos e manipulamos ]números. Independentemente da base utilizada, o princípio subjacente permanece o mesmo: o valor de cada algarismo 
+ O conceito de base em sistemas numéricos é uma ferramenta poderosa que define como representamos e manipulamos 
+números. Independentemente da base utilizada, o princípio subjacente permanece o mesmo: o valor de cada algarismo 
 depende de sua posição, e a posição é determinada pela base do sistema numérico.
 
  Entender a relação entre diferentes bases é essencial, especialmente em áreas técnicas como computação, 
