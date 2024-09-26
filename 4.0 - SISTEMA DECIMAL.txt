@@ -1,6 +1,10 @@
                                            SISTEMA DECIMAL
 
- O sistema decimal, também conhecido como sistema de numeração decimal, é o sistema numérico mais amplamente utilizado em todo o mundo. Esse sistema é baseado em dez símbolos, que vão de 0 a 9, e é fundamental não apenas para contar, mas também para realizar operações matemáticas e medições no cotidiano. A origem do sistema decimal remonta a civilizações antigas, como os babilônios e os egípcios, e sua popularidade deve-se à sua simplicidade e eficiência na representação de números.
+ O sistema decimal, também conhecido como sistema de numeração decimal, é o sistema numérico mais amplamente 
+utilizado em todo o mundo. Esse sistema é baseado em dez símbolos, que vão de 0 a 9, e é fundamental não apenas
+para contar, mas também para realizar operações matemáticas e medições no cotidiano. A origem do sistema decimal 
+remonta a civilizações antigas, como os babilônios e os egípcios, e sua popularidade deve-se à sua simplicidade
+e eficiência na representação de números.
 
  O sistema decimal é uma estrutura posicional, o que significa que o valor de um algarismo depende tanto de seu 
 próprio valor quanto da sua posição no número. Por exemplo, no número 543, o "5" representa quinhentas unidades, o 
