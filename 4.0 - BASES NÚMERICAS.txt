@@ -98,6 +98,26 @@ aumenta exponencialmente de acordo com a base.
                              Cada posição de um número em qualquer base pode ser entendida como uma potência da 
                            base, e os símbolos disponíveis em cada posição são multiplicados por essa potência.
 
+
+
+                                "Diferenças Entre Bases"
+
+ Cada sistema numérico tem características próprias que o tornam mais ou menos adequado para diferentes  aplicações. Aqui estão algumas considerações para cada um dos sistemas numéricos mais comuns:
+
+ - Decimal : É o mais natural para os humanos, já que estamos habituados a contar usando dez algarismos. É o 
+            sistema preferido para a maioria das interações diárias e transações financeiras.
+
+ - Binário : Essencial para a computação, o sistema binário permite que computadores, que operem em estados de 
+            "ligado" e "desligado", processem e armazenem dados de maneira eficiente.
+
+ - Octal e Hexadecimal : Ambos são usados ​​principalmente em programação e eletrônica, onde grandes números 
+                        binários são comuns. O octal é uma alternativa simplificada para números binários longos, 
+                        e o hexadecimal é preferido por sua compactação, já que cada algarismo hexadecimal 
+                        representa quatro bits.
+
+ Uma diferença fundamental entre esses sistemas reside na quantidade de símbolos usados ​​e no número de potências 
+atribuídas a cada posição no número.
+
                               
 
                                   
