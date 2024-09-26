@@ -1,11 +1,11 @@
                                           BASES NÚMERICAS
 
 
- O conceito de "base" em sistemas numéricos é um dos pilares fundamentais da matemática e da ciência da computação. 
-As bases numéricas determinam como os números são representados, quais algarismos são usados, e como esses 
-algarismos se organizam para formar valores. Em outras palavras, a base de um sistema numérico define quantos 
-símbolos únicos podem ser usados ​​para representar números, e como cada posição em um número relacionado ao valor 
-total.
+ O conceito de "base" em sistemas numéricos é um dos pilares fundamentais da matemática e da ciência da 
+computação. As bases numéricas determinam como os números são representados, quais algarismos são usados, e como 
+esses algarismos se organizam para formar valores. Em outras palavras, a base de um sistema numérico define 
+quantos símbolos únicos podem ser usados ​​para representar números, e como cada posição em um número relacionado ao 
+valor total.
 
  No nosso cotidiano, o sistema decimal (base 10) é o mais familiar. Ele usa dez símbolos (0 a 9) e cada posição em 
 um número corresponde a uma potência de 10. Contudo, em áreas como a computação e a eletrônica, outros sistemas 
@@ -13,16 +13,43 @@ numéricos também são comuns, como o sistema binário (base 2), o octal (base 
 desses sistemas segue o mesmo princípio da base, mas com um número diferente de símbolos e potências associadas a 
 cada posição.
 
- Compreender o conceito de base é essencial para decifrar como os números funcionam em diferentes contextos. A base 
-influencia diretamente a forma como representamos informações e calculamos resultados, e, como veremos, ela tem um 
-impacto profundo em campos como programação, criptografia, redes de computadores e até mesmo em nosso entendimento 
-mais fundamental de matemática.
+ Compreender o conceito de base é essencial para decifrar como os números funcionam em diferentes contextos. A 
+base influencia diretamente a forma como representamos informações e calculamos resultados, e, como veremos, ela 
+tem um impacto profundo em campos como programação, criptografia, redes de computadores e até mesmo em nosso 
+entendimento mais fundamental de matemática.
 
 
 
                                         "O Que é uma Base?"
 
- A base de um sistema numérico é o número de símbolos diferentes usados ​​para representar detalhes nesse sistema. Por 
-exemplo, no sistema decimal , a base é 10, o que significa que há 10 símbolos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) que 
-podem ser usados ​​em cada posição de um número . Quando todos os símbolos de uma posição são utilizados, a posição 
-seguinte é ativada, começando novamente de 0 e adicionando uma unidade à próxima casa à esquerda.
+ A base de um sistema numérico é o número de símbolos diferentes usados ​​para representar detalhes nesse sistema. 
+Por exemplo, no sistema decimal , a base é 10, o que significa que há 10 símbolos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) 
+que podem ser usados ​​em cada posição de um número . Quando todos os símbolos de uma posição são utilizados, a 
+posição seguinte é ativada, começando novamente de 0 e adicionando uma unidade à próxima casa à esquerda.
+
+ Esse conceito de base define como agrupamos os números e como o valor de um algarismo depende de sua posição. A 
+base 10 não é a única base possível, e sistemas com bases diferentes seguem a mesma lógica, alterando apenas a 
+quantidade de coleções disponíveis.
+
+ Exemplos de Bases Comuns:
+
+ - Base 2 (Sistema Binário) : Usa apenas dois símbolos (0 e 1). Cada posição no número representa uma potência de 
+                             2. Este sistema é amplamente usado em computadores porque os sistemas digitais operam 
+                             em dois estados: ligado (1) e desligado (0).
+
+ - Base 8 (Sistema Octal) : Usa oito símbolos (0 a 7). Cada posição representa uma potência de 8. Este sistema é 
+                           usado historicamente em algumas linguagens de programação e sistemas de regularidade.
+
+ - Base 16 (Sistema Hexadecimal) : Usa dezesseis símbolos (0 a 9 e A a F, onde A = 10, B = 11, até F = 15). Cada 
+                                  posição representa uma potência de 16. É muito utilizada na programação para 
+                                  representar grandes números binários de forma compacta.
+
+
+
+                     "Funcionamento de um Sistema Numérico Baseado em Potências"
+
+ Cada número em um sistema numérico pode ser visto como uma combinação de potências da base em que está 
+representado. Isso significa que, conforme você se move da direita para a esquerda em um número, cada posição 
+aumenta exponencialmente de acordo com a base.
+
+
