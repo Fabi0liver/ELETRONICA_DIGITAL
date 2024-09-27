@@ -233,7 +233,11 @@ necessidade de métodos complexos, como ocorre em sistemas numéricos não posic
 operação em números no sistema decimal ou binário, basta aplicar as regras de cálculo direto, respeitando as 
 posições dos algarismos.
 
- Na tecnologia moderna, a notação posicional está no coração de praticamente todos os sistemas que utilizamos. Os computadores operam em binário, onde cada "bit" é uma representação posicional de 0s e 1s. Mesmo as representações mais avançadas, como o sistema hexadecimal, usado para codificar cores, por exemplo, dependem do princípio básico da notação posicional. Cada posição carrega um peso que, ao ser somado, define o valor total, seja ele representado por números ou por informações digitais.
+ Na tecnologia moderna, a notação posicional está no coração de praticamente todos os sistemas que utilizamos. 
+Os computadores operam em binário, onde cada "bit" é uma representação posicional de 0s e 1s. Mesmo as 
+representações mais avançadas, como o sistema hexadecimal, usado para codificar cores, por exemplo, dependem do
+princípio básico da notação posicional. Cada posição carrega um peso que, ao ser somado, define o valor total, 
+seja ele representado por números ou por informações digitais.
 
  Sem a notação posicional, o avanço da tecnologia e da ciência, como conhecemos, não teria sido possível. Essa 
 simples, mas poderosa ideia é o pilar de muitos dos sistemas numéricos que utilizamos para realizar tarefas que 
