@@ -20,6 +20,7 @@ sistemas numéricos. Com isso, esperamos desmistificar um pouco os conceitos mat
 as operações numéricas são realizadas.
 
 
+
                                             "Números"
 
  Um número é uma representação abstrata de uma quantidade ou uma ordem. Eles podem ser utilizados para contar, 
