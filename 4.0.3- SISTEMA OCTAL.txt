@@ -18,6 +18,7 @@ prática e sua importância no campo da computação. Vamos também discutir a r
 sistemas numéricos, como o binário, o hexadecimal e o decimal, destacando suas vantagens e limitações.
 
 
+
                                   "Estrutura do Sistema Octal"
 
  No sistema octal, cada algarismo pode assumir qualquer valor de 0 a 7. Diferente do decimal, onde temos dez 
